@@ -1,2 +1,2 @@
 django-crispy-forms
-djagno=3.0
+djagno==3.0
